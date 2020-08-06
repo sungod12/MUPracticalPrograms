@@ -22,7 +22,8 @@ Following diagram will help you understand better-
    ~GoBackN was developed to remove the problem of StopandWait.It sends packets in specific window size.After sending packets,it slides the window.After sending all 	 the packets if receiver says it hasnt received a particular packet.Then all the packets <=packetnotreceived is sent again,which could create the problem of 	    	duplicate packets.
 	
 Following diagram will help you understand better-
-	![image](https://user-images.githubusercontent.com/55348832/89562857-3ceaa400-d838-11ea-8569-8a3298ee73a4.png)
+	![image](https://user-images.githubusercontent.com/55348832/89563282-d87c1480-d838-11ea-82b0-92740dbbc85d.png)
+
 
 	
 3)SelectiveRepeat
