@@ -1,5 +1,5 @@
 import java.util.*;
-class C{
+class SelRep{
 		public static void main(String[] args) {
 			Scanner sc=new Scanner(System.in);
 			int y=0,c=2,n;
