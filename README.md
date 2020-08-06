@@ -31,5 +31,8 @@ Following diagram will help you understand better-
 	
 Following diagram will help you understand better-
 	![image](https://user-images.githubusercontent.com/55348832/89562857-3ceaa400-d838-11ea-8569-8a3298ee73a4.png)
+	
+Images taken from-
+https://www.geeksforgeeks.org/
 
 
